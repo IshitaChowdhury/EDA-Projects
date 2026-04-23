@@ -1,4 +1,4 @@
-# I'm Actively Learning EDA 📊
+# EDA Projects
 
 Documenting my learning journey while exploring real-world datasets through **Exploratory Data Analysis**.
 
